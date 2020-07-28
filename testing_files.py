@@ -1,1 +1,1 @@
-print("jkjdsf")print("hello")
+print("jkjdsf")
